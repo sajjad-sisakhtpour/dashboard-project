@@ -76,4 +76,4 @@ For any questions, please reach out:
 - **LinkedIn**: [Sajjad Sisakhtpour](https://ir.linkedin.com/in/sajad-sisakht-pour)
 
 ## Live Demo
-For a live demonstration, open `index.html` locally in your browser after downloading or cloning the repository.
+For a live demonstration, open [here](https://sajjad-sisakhtpour.github.io/dashboard-project) locally in your browser after downloading or cloning the repository.
